@@ -19,5 +19,5 @@ async def on_member_join(member):
     if channel:
         await channel.send(f'Eda Mownea.....Welcome to Mallu Programmers....., {member.mention}!')
 
-# Run the bot with your token
+# Run the bot with token
 bot.run('MTMwMTQ3MDY0NDcxMzgxNjA4Ng.G0MMy1.J899qpN4LDmneUnV6sUEgYJ-SmWCke5bAqSckc')
